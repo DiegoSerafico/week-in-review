@@ -1,0 +1,28 @@
+body {
+  background-color: darkslateblue;
+}
+
+h2 {
+  text-align: center;
+}
+
+content {
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+.jumbotron h1 {
+  color: aliceblue;
+}
+
+.jumbotron p {
+  color: aliceblue;
+}
+
+.card {
+  margin: 10px;
+  height: 500px;
+}
